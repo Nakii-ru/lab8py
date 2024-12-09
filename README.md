@@ -8,7 +8,10 @@ TI.24.A5
 
 # Diagram 
 ![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/diagram8.drawio.png?raw=true)
-# Penjelasan
+
+# Hasil Eksekusi Program
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Screenshot%202024-12-09%20221025.png?raw=true)
+![prak.pict](https://github.com/Nakii-ru/prak.pict/blob/main/Screenshot%202024-12-09%20221038.png?raw=true)
 ```python
 class Daftar_Nilai_Mahasiswa:
     def __init__(self):
